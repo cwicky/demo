@@ -1,8 +1,8 @@
 {
   "error": [
-    { "state": 204, "id": "foobar" }
+    { "state": 204, "contract": "foobar" }
   ],
   "success": [
-    { "state": 500, "id": "nr1234" }
+    { "state": 500, "contract": "nr1234" }
   ]
 }
