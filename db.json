@@ -1,4 +1,8 @@
 {
-   "state":204,
-   "id":"foobar1234"
+  "error": [
+    { "state": 204, "id": "foobar" }
+  ],
+  "success": [
+    { "state": 500, "id": "nr1234" }
+  ]
 }
