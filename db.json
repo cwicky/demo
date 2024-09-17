@@ -1,4 +1,4 @@
 {
-  "error": { "state": 500, "contract": "foo1234error" },
-  "success": { "state": 201, "contract": "bar1234success" }
+  "error": { "state": "500", "contract": "99999" },
+  "success": { "state": "200", "contract": "11111" }
 }
